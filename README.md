@@ -2,6 +2,9 @@
 ## Background </br>
 Amazing Prime loves the dataset and wants to keep it updated on a daily basis. X needs our help to create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. We ’ll need to create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database.</br>
 ## What We Are Creating </br>
+![image](https://user-images.githubusercontent.com/76931568/128980317-09bfeea9-c067-4ee8-8557-bfef95d9a60b.png)</br>
+
+
 This project consists of four technical analysis deliverables. We will submit the following:</br>
 
 Deliverable 1: Write an ETL Function to Read Three Data Files</br>
